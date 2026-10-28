@@ -18,3 +18,4 @@ uses: actions/upload-artifact@v4
 with:
   name: clickgui-jar
   path: build/libs/clickgui-*.jar
+  
