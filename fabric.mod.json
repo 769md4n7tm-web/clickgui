@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "clickgui",
+  "version": "1.0.0",
+  "name": "ClickGUI",
+  "environment": "client",
+  "entrypoints": { "client": ["com.example.clickgui.ClickGuiMod"] },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
